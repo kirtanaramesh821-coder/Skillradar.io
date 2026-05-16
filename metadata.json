@@ -1,0 +1,6 @@
+{
+  "name": "SkillRadar",
+  "description": "A career guidance platform for students that analyzes resumes, identifies skill gaps, and generates personalized 30-day learning roadmaps with interactive job simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
